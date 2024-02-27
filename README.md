@@ -12,4 +12,4 @@ The repo is structured as :
 -   `paper` contains the qmd document used to generate the paper,the pdf document of the paper, and the bib.txt file for bibliography. 
 
 ## Statement on LLM Usage
-Statement on LLM usage: Aspects of the code were written with the help of the autocomplete tool, Chat-GPT3.5. Some part of the discussion was written with the help of Chat-GPT3.5 for prompts.  The entire chat history documented at others/llm/usage.txt.
+Statement on LLM usage: Aspects of the code were written with the help of the autocomplete tool, Chat-GPT4. Some part of the discussion was written with the help of Chat-GPT4 for prompts. 
